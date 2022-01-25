@@ -2,7 +2,7 @@ First attempt at consuming an external API using Spring, having peviously follow
 
 Using: 
 OpenWeatherMap API
-Spring initializer ()
+Spring initializer
 
 Accepts a city name within the URL:
 http://localhost:8080/{cityName}
